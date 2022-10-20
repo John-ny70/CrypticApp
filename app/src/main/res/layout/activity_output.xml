@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@color/black"
+    tools:context=".outputActivity">
+
+    <EditText
+        android:id="@+id/out"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="200dp"
+        android:textColor="@color/white"
+        android:autofillHints="true"
+        android:inputType="none"
+        android:gravity="start"
+        android:textSize="30sp"
+        android:hint="@string/Heading"
+        android:layout_marginBottom="100dp"/>
+
+</LinearLayout>

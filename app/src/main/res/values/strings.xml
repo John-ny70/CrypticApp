@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cryptic</string>
+    <string name="Heading">Welcome to Cryptic</string>
+    <string name="convert">Convert</string>
+    <string name="Input">Enter Text Or Code</string>
+    <string name="Message">please wait....</string>
+</resources>
